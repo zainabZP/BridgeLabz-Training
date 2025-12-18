@@ -4,6 +4,6 @@ class welcomeToBridgelabz
 {
     static void Main()
     {
-        Console.WriteLine("Welcome To Bridgelabz");
+        Console.WriteLine("Welcome To Bridgelabz"); // printing welcome message
     }
 }
