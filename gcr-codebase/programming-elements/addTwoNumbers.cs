@@ -1,9 +1,7 @@
 using System;
-
-class addTwoNumbers
+class AddTwoNumbers
 {
-    static void Main()
-    {
+    static void Main(){
         // taking input of two numbers from user
         string[] inputs = Console.ReadLine().Split();
         int a = int.Parse(inputs[0]);  // taking first number input
