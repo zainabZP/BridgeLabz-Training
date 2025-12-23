@@ -11,16 +11,16 @@ class Calculator{
 		// select operation to be prformed
         switch (operation){
             case "+":
-				Console.WriteLine("Result = " + (a+b));
+				Console.WriteLine("Result = " +(a+b));
                 break;
             case "-":
-                Console.WriteLine("Result = " + (a-b));
+                Console.WriteLine("Result = " +(a-b));
                 break;
             case "*":
-                Console.WriteLine("Result = " + (a*b));
+                Console.WriteLine("Result = " +(a*b));
                 break;
             case "/":
-                Console.WriteLine("Result = " + (a/b));
+                Console.WriteLine("Result = " +(a/b));
                 break;
             default:
                 Console.WriteLine("Invalid Operator");
