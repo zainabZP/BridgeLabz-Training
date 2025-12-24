@@ -9,7 +9,6 @@ class NumberReverse{
         while(n>0){
             int temp=n%10;
             rev=rev*10+temp;
-            Console.WriteLine(temp);
             n=n/10;
         }
         Console.WriteLine(rev);
