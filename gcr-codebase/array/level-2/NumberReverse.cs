@@ -12,5 +12,6 @@ class NumberReverse{
             Console.WriteLine(temp);
             n=n/10;
         }
+        Console.WriteLine(rev);
     }
 }
