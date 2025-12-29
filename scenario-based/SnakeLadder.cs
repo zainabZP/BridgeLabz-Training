@@ -1,61 +1,67 @@
 using System;
-class Game{
+class SnakeLadderGame{
+    private int[] ladderArray={10,18,30,69,78};
+    private int[] ladderArrayNewPosition={56,25,21,18,17};
+    private int[] SnakeArray={99,96,94,77,37};
+    private int[] SnakeArrayNewPosition={93,12,23,49,30};
+    private const int BoardSize=100;
     public static void Main(){
+        SnakeLadderGame obj=new SnakeLadderGame();
         Console.WriteLine("enter number of players");
-        int n=int.Parse(Console.ReadLine());
-        int[] p=new int [n];int f=0;
-        while(f==0){
-            for(int i=0;i<n;i++){
-                int x=GenerateRandom();
+        int numberOfPlayer=int.Parse(Console.ReadLine());
+        int[] player=new int [numberOfPlayer];int flag=0;
+        while(flag==0){
+            for(int i=0;i<numberOfPlayer;i++){
+                int x=obj.GenerateRandom();
                 Console.WriteLine();
                 Console.WriteLine("player "+(i+1)+" turn");
                 Console.ReadLine();
                 Console.WriteLine("dice value = "+x);
-                if((p[i]+x)<=100) p[i]+=x;
-                if(p[i]==100){
+                if((player[i]+x)<=SnakeLadderGame.BoardSize) player[i]+=x;
+                if(player[i]==100){
                     Console.WriteLine("player "+(i+1)+" wins");
-                    f=1;
+                    flag=1;
                     break;
                 }
                 //ladder
-                else if(p[i]==10||p[i]==18||p[i]==30||p[i]==69||p[i]==78){
+                else if(player[i]==10||player[i]==18||player[i]==30||player[i]==69||player[i]==78){
                     Console.WriteLine();
                     Console.WriteLine("ladder reached");
                     Console.WriteLine();
-                    int lad=ladder(p[i]);
-                    p[i]=p[i]+lad;
+                    int ladderIncrement=obj.ladder(player[i],obj.ladderArray,obj.ladderArrayNewPosition);
+                    player[i]=player[i]+ladderIncrement;
                 }
                 //snake
-                else if(p[i]==99||p[i]==96||p[i]==94||p[i]==77||p[i]==37){
+                else if(player[i]==99||player[i]==96||player[i]==94||player[i]==77||player[i]==37){
                     Console.WriteLine();
                     Console.WriteLine("snake bit");
-                    int snak=Snake(p[i]);
-                    p[i]=p[i]-snak;
+                    int snakeDecrement=obj.Snake(player[i],obj.SnakeArray,obj.SnakeArrayNewPosition);
+                    player[i]=player[i]-snakeDecrement;
                 }
                 Console.WriteLine();
-                Console.WriteLine("player "+(i+1)+" score is "+p[i]);
+                Console.WriteLine("player "+(i+1)+" score is "+player[i]);
             }
-            if(f==1) break;
+            if(flag==1) break;
         }
         
     }
-    public static int GenerateRandom(){
+    public int GenerateRandom(){
         Random r=new Random();
         int x=r.Next(1,7);
         return x;
     }
-    public static int ladder(int lad){
-        if(lad==10) return 56;
-        else if(lad==18) return (43-18);
-        else if(lad==30) return (51-30);
-        else if(lad==69) return (87-69);
-        else return (95-78);
+    public int ladder(int position, int[] ladderArray, int[] ladderArrayNewPosition){
+        if(position==ladderArray[0]) return ladderArrayNewPosition[0];
+        else if(position==ladderArray[1]) return ladderArrayNewPosition[1];
+        else if(position==ladderArray[2]) return ladderArrayNewPosition[2];
+        else if(position==ladderArray[3]) return ladderArrayNewPosition[3];
+        else return ladderArrayNewPosition[4];
     }
-    public static int Snake(int s){
-        if(s==99) return (99-6);
-        else if(s==96) return (96-84);
-        else if(s==94) return (94-71);
-        else if(s==77) return (77-28);
-        else return (37-7);
+    public int Snake(int position,int[] SnakeArray, int[] SnakeArrayNewPosition){
+        if(position==SnakeArray[0]) return SnakeArrayNewPosition[0];
+        else if(position==SnakeArray[1]) return SnakeArrayNewPosition[1];
+        else if(position==SnakeArray[2]) return SnakeArrayNewPosition[2];
+        else if(position==SnakeArray[3]) return SnakeArrayNewPosition[3];
+        else return SnakeArrayNewPosition[4];
     }
 }
