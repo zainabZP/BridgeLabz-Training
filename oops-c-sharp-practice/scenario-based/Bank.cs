@@ -1,12 +1,10 @@
 using System;
-
 public class Bank {
     public const int Capacity = 10;
     public const string BankName = "IBDI";
     public static int TotalClientSize = 1;
     public static Client[] arr = new Client[Capacity];
 }
-
 static class BankManager {   
     static void DisplayAccount(int account){
         if(account >= 0 && account < Bank.Capacity && Bank.arr[account] != null){
@@ -167,7 +165,6 @@ static class BankManager {
         }
     }
 }
-
 public class Client {
     private string name;
     private int amount;
