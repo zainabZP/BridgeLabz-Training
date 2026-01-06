@@ -92,7 +92,7 @@ class BirdSanctuary
         birds[3] = new Penguin("Penguin");
         birds[4] = new Seagull("Seagull");
 
-        // Using for loop (no foreach)
+        // Using for loop
         for (int i = 0; i < birds.Length; i++)
         {
             Console.WriteLine("Bird: " + birds[i].Name);
@@ -111,3 +111,4 @@ class BirdSanctuary
         }
     }
 }
+
