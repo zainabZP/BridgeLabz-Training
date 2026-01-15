@@ -81,3 +81,83 @@ Today's work done -
 * Paragraph analyzer (counting words, finding longest word and replacing a substring),
 * Score analyzer, (analysis a student's score like finding highest, lowest and average score, etc)
 * Temperature analyzer (analyse each days temperatue and finiding hottest and coldest day of the week).
+
+Day-13 [30/12/2025], Today's work done –
+Revised OOPS concepts in C# such as:
+Interface, Abstraction, Inheritance and Polymorphism,
+Practiced basic examples for each OOPS concept,
+Understood how polymorphism works using method overriding,
+Uploaded OOPS practice programs on GitHub.
+
+Day-14 [31/12/2025], Today's work done –
+Practiced scenario-based questions using OOPS concepts,
+Created and executed Employee Management System scenario,
+Implemented classes, methods and inheritance properly,
+Uploaded Employee Management assignment on GitHub.
+
+Day-15 [01/01/2026], Today's work done –
+Worked on Fitness Tracker scenario-based program,
+Applied abstraction and interfaces where required,
+Practiced real-world logic implementation in C#,
+Executed and uploaded Fitness Tracker assignment on GitHub.
+
+Day-16 [02/01/2026], Today's work done –
+Practiced Appliances Management scenario,
+Used inheritance to represent different appliance types,
+Applied polymorphism to calculate power consumption,
+Uploaded Appliances scenario program on GitHub.
+
+Day-17 [03/01/2026], Today's work done –
+Created Bird Sanctuary scenario-based application,
+Used interface and inheritance to model bird behaviors,
+Practiced clean class structure and method usage,
+Executed and uploaded Bird Sanctuary assignment on GitHub.
+
+Day-19 [05/01/2026], Today's work done –
+Revised OOPS concepts, 
+Practiced Call Log Management scenario,
+Uploaded Call Log Management program on GitHub.
+
+Day-20 [06/01/2026], Today's work done –
+Worked on Hospital Management scenarios,
+Applied OOPS concepts like inheritance ,
+Practiced writing structured and readable C# code,
+Uploaded all completed scenario-based assignments on GitHub.
+
+Day-21 [06/01/2026], Today's work done –
+Worked on Vehicle Management scenarios,
+Applied OOPS concepts like inheritance ,
+Uploaded all completed scenario-based assignments on GitHub.
+
+Day-22 [07/01/2026], Today's work done –
+Learned basics of Linked List in C#,
+Understood node creation and linking nodes,
+Practiced basic Linked List operations,
+Started Linked List assignment.
+
+Day-23 [08/01/2026], Today's work done –
+Completed Linked List assignment,
+Implemented operations like insertion and traversal,
+Executed all Linked List programs,
+Uploaded Linked List assignment on GitHub.
+
+Day-24 [09/01/2026], Today's work done –
+Learned basics of Stack, Queue and Dictionary in C#,
+Understood their working and use cases,
+Practiced basic programs for stack and queue operations.
+
+Day-25 [10/01/2026], Today's work done –
+Learned about Tight Coupling and Loose Coupling,
+Understood advantages of loose coupling in application design,
+Related coupling concepts with interfaces
+
+Day-26 [13/01/2026], Today's work done –
+Learned sorting algorithms in C#,
+Studied Bubble Sort, Selection Sort and Insertion Sort,
+Implemented and executed basic sorting programs.
+
+Day-27 [14/01/2026], Today's work done –
+Learned advanced sorting algorithms like Merge Sort, Quick Sort and Counting Sort,
+Compared time complexity of different sorting techniques,
+Practiced writing sorting logic efficiently,
+Uploaded all sorting programs on GitHub.
