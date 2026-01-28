@@ -1,0 +1,12 @@
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\bin\Debug\net10.0\PerformanceHandler.deps.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\bin\Debug\net10.0\PerformanceHandler.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\bin\Debug\net10.0\PerformanceHandler.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.AssemblyInfoInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.AssemblyInfo.cs
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.csproj.CoreCompileInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.sourcelink.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\refint\PerformanceHandler.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\PerformanceHandler.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\PerformanceTestApp\PerformanceHandler\obj\Debug\net10.0\ref\PerformanceHandler.dll

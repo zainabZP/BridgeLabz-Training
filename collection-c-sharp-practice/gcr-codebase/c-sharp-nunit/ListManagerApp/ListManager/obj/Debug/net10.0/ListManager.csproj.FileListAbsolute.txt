@@ -1,0 +1,12 @@
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\bin\Debug\net10.0\ListManager.deps.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\bin\Debug\net10.0\ListManager.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\bin\Debug\net10.0\ListManager.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.AssemblyInfoInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.AssemblyInfo.cs
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.csproj.CoreCompileInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.sourcelink.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\refint\ListManager.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ListManager.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\ListManagerApp\ListManager\obj\Debug\net10.0\ref\ListManager.dll

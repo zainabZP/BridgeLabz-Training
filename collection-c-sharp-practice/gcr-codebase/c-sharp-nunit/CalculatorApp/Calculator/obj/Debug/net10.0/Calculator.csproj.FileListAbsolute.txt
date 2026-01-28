@@ -1,0 +1,12 @@
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\CalculatorApp\Calculator\obj\Debug\net10.0\ref\Calculator.dll

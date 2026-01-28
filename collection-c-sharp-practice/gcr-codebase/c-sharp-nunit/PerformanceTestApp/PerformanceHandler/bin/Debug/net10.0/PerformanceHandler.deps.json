@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PerformanceHandler/1.0.0": {
+        "runtime": {
+          "PerformanceHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PerformanceHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

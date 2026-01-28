@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PerformanceHandler/PerformanceHandler.csproj" />
+  <Project Path="PerformanceHandlerMSTests/PerformanceHandlerMSTests.csproj" />
+  <Project Path="PerformanceHandlerNUnitTests/PerformanceHandlerNUnitTests.csproj" />
+</Solution>

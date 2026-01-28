@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NumberUtils/NumberUtils.csproj" />
+  <Project Path="NumberUtilsMSTests/NumberUtilsMSTests.csproj" />
+  <Project Path="NumberUtilsNUnitTests/NumberUtilsNUnitTests.csproj" />
+</Solution>
