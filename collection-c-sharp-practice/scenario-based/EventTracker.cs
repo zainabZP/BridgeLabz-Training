@@ -19,8 +19,8 @@ class UserService
     [AuditTrail("User Login")]
     public void Login()
     {
-    }
 
+    }
     [AuditTrail("File Upload")]
     public void Upload()
     {
