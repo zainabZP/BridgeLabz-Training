@@ -1,0 +1,27 @@
+# Ignore build directories
+**/bin/
+**/obj/
+
+# Ignore Visual Studio temporary files
+*.user
+*.suo
+*.vs
+*.vscode
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore NuGet packages folder
+*.nupkg
+packages/
+
+# Ignore test results
+TestResults/
+*.trx
+
+# Ignore ReSharper files
+*.DotSettings.user
+
+# Ignore Mac/Linux system files
+.DS_Store
+Thumbs.db
