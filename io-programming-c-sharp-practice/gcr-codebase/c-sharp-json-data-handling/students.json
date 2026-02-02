@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Aman",
+    "Age": 24,
+    "Subjects": ["Maths", "Science"]
+  },
+  {
+    "Name": "Riya",
+    "Age": 23,
+    "Subjects": ["English", "History"]
+  },
+  {
+    "Name": "Luna",
+    "Age": 22,
+    "Subjects": ["Maths", "Science", "English"]
+  },
+  {
+    "Name": "Arjun",
+    "Age": 21,
+    "Subjects": ["Physics", "Chemistry"]
+  }
+]
