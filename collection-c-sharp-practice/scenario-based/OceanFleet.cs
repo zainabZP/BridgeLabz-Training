@@ -4,8 +4,8 @@ class Vessel{
     public string averageSpeed;
     public string vesselType;
     public Vessel(string vesselId, string vesselName, string averageSpeed, string vesselType){
-        this. vesselId=vesselId;
-        this. vesselName=vesselName;
+        this.vesselId=vesselId;
+        this.vesselName=vesselName;
         this.averageSpeed=averageSpeed;
         this.vesselType=vesselType;
     }
