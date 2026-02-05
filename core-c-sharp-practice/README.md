@@ -161,3 +161,109 @@ Day-27 [14/01/2026], Today's work done –
 2. Compared time complexity of different sorting techniques, 
 3. Practiced writing sorting logic efficiently, 
 4. Uploaded all sorting programs on GitHub. 
+
+Day-28 [15/01/2026], Today's work done –
+Enhanced Address Book System (UC6–UC11)
+
+Implemented duplicate prevention
+
+Added search by city/state
+
+Implemented sorting and grouping
+
+Counted contacts and managed multiple address books
+
+Uploaded all programs on GitHub
+
+Day-29 [16/01/2026], Today's work done –
+Scenario-Based Programming
+
+Built Traffic Manager, Bookshelf Management, and BrowserBuddy
+
+Used arrays, stacks, and OOP principles
+
+Practiced clean class design and method implementation
+
+Day-30 [17/01/2026], Today's work done –
+Sorting Algorithms
+
+Practiced Bubble Sort and Quick Sort
+
+Applied sorting to real-world scenarios
+
+Compared performance between algorithms
+
+Day-31 [19/01/2026], Today's work done –
+Generics & Data Structures
+
+Worked with Generics, Singly Linked List, Stack, and HashMap
+
+Implemented scenario-based programs using these structures
+
+Day-32 [20/01/2026], Today's work done –
+Sorting & Backtracking
+
+Implemented Radix Sort and Binary Search
+
+Solved generic assignments using generics
+
+Built backtracking-based password simulation program
+
+Day-33 [21/01/2026], Today's work done –
+Streams & Advanced DSA
+
+Used Streams for data processing
+
+Implemented Merge Sort, Queue, and HashMap
+
+Built applications like rank generation and billing system
+
+Day-34 [22/01/2026], Today's work done –
+Exception Handling & Circular Linked List
+
+Practiced try-catch blocks and custom exceptions
+
+Implemented Circular Linked List for emergency routing
+
+Day-35 [23/01/2026], Today's work done –
+Regex & Testing
+
+Solved regex-based validation problems
+
+Wrote basic NUnit test cases
+
+Day-36 [24/01/2026], Today's work done –
+Annotations & Reflection
+
+Created custom annotations
+
+Used reflection to inspect metadata at runtime
+
+Day-37 [27/01/2026], Today's work done –
+Advanced Reflection & Testing
+
+Built annotation-driven projects
+
+Added exception handling
+
+Improved reliability with testing
+
+Day-38 [28/01/2026], Today's work done –
+Data Handling & Validation
+
+Solved company-level scenario-based problems
+
+Applied validation rules and clean logic in programs
+
+Day-39 [29/01/2026], Today's work done –
+Streams & JSON
+
+Built scenario-based applications using Streams
+
+Practiced JSON data handling
+
+Day-40 [30/01/2026], Today's work done –
+Problem Solving & System Design
+
+Solved string manipulation challenges
+
