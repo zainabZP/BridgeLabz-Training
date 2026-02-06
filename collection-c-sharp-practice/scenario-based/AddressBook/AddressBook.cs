@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace AddressBook
 {
@@ -11,101 +10,117 @@ namespace AddressBook
         // UC1 + UC6
         public void AddContact()
         {
-            ContactPerson person = new ContactPerson();
-
-            Console.Write("First Name: ");
-            person.FirstName = Console.ReadLine();
-
-            Console.Write("Last Name: ");
-            person.LastName = Console.ReadLine();
-
-            if (contacts.Contains(person))
+            try
             {
-                Console.WriteLine("Duplicate contact not allowed.");
-                return;
+                ContactPerson person = new ContactPerson();
+
+                Console.Write("First Name: ");
+                person.FirstName = Console.ReadLine() ?? "";
+
+                Console.Write("Last Name: ");
+                person.LastName = Console.ReadLine() ?? "";
+
+                // Duplicate check using loop
+                foreach (ContactPerson p in contacts)
+                {
+                    if (p.Equals(person))
+                        throw new Exception("Duplicate contact not allowed.");
+                }
+
+                Console.Write("Address: ");
+                person.Address = Console.ReadLine() ?? "";
+
+                Console.Write("City: ");
+                person.City = Console.ReadLine() ?? "";
+
+                Console.Write("State: ");
+                person.State = Console.ReadLine() ?? "";
+
+                Console.Write("Zip: ");
+                person.Zip = Console.ReadLine() ?? "";
+
+                Console.Write("Phone Number: ");
+                person.PhoneNumber = Console.ReadLine() ?? "";
+
+                Console.Write("Email: ");
+                person.Email = Console.ReadLine() ?? "";
+
+                contacts.Add(person);
+                Console.WriteLine("Contact added successfully.");
             }
-
-            Console.Write("Address: ");
-            person.Address = Console.ReadLine();
-
-            Console.Write("City: ");
-            person.City = Console.ReadLine();
-
-            Console.Write("State: ");
-            person.State = Console.ReadLine();
-
-            Console.Write("Zip: ");
-            person.Zip = Console.ReadLine();
-
-            Console.Write("Phone Number: ");
-            person.PhoneNumber = Console.ReadLine();
-
-            Console.Write("Email: ");
-            person.Email = Console.ReadLine();
-
-            contacts.Add(person);
-            Console.WriteLine("Contact added successfully.");
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
-        // UC2 – Edit using Name
+        // UC2
         public void EditContact()
         {
             Console.Write("Enter First Name to Edit: ");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine() ?? "";
 
-            var person = contacts.FirstOrDefault(
-                p => p.FirstName.Equals(name, StringComparison.OrdinalIgnoreCase));
-
-            if (person == null)
+            foreach (ContactPerson p in contacts)
             {
-                Console.WriteLine("Contact not found.");
-                return;
+                if (p.FirstName.Equals(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.Write("New City: ");
+                    p.City = Console.ReadLine() ?? "";
+
+                    Console.Write("New State: ");
+                    p.State = Console.ReadLine() ?? "";
+
+                    Console.WriteLine("Contact updated.");
+                    return;
+                }
             }
 
-            Console.Write("New City: ");
-            person.City = Console.ReadLine();
-
-            Console.Write("New State: ");
-            person.State = Console.ReadLine();
-
-            Console.WriteLine("Contact updated.");
+            Console.WriteLine("Contact not found.");
         }
 
-        // UC3 – Delete using Name
+        // UC3
         public void DeleteContact()
         {
             Console.Write("Enter First Name to Delete: ");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine() ?? "";
 
-            var person = contacts.FirstOrDefault(
-                p => p.FirstName.Equals(name, StringComparison.OrdinalIgnoreCase));
-
-            if (person == null)
+            for (int i = 0; i < contacts.Count; i++)
             {
-                Console.WriteLine("Contact not found.");
-                return;
+                if (contacts[i].FirstName.Equals(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    contacts.RemoveAt(i);
+                    Console.WriteLine("Contact deleted.");
+                    return;
+                }
             }
 
-            contacts.Remove(person);
-            Console.WriteLine("Contact deleted.");
+            Console.WriteLine("Contact not found.");
         }
 
         // UC4
         public void DisplayContacts()
         {
-            foreach (var person in contacts)
+            foreach (ContactPerson p in contacts)
             {
-                Console.WriteLine(person);
+                Console.WriteLine(p);
             }
         }
 
-        // UC10 – Sort using Collection Library
+        // UC10 – Sorting (manual, no LINQ)
         public void SortByName()
         {
-            contacts = contacts
-                .OrderBy(p => p.FirstName)
-                .ThenBy(p => p.LastName)
-                .ToList();
+            for (int i = 0; i < contacts.Count - 1; i++)
+            {
+                for (int j = i + 1; j < contacts.Count; j++)
+                {
+                    if (contacts[i].FirstName.CompareTo(contacts[j].FirstName) > 0)
+                    {
+                        ContactPerson temp = contacts[i];
+                        contacts[i] = contacts[j];
+                        contacts[j] = temp;
+                    }
+                }
+            }
 
             Console.WriteLine("Contacts sorted by name.");
         }
