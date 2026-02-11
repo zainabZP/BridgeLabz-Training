@@ -12,3 +12,4 @@ namespace AddressBook
         List<ContactPerson> GetContacts();
     }
 }
+
