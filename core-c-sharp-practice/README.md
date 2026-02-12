@@ -230,3 +230,51 @@ Day-40 [30/01/2026], Today's work done –
 1. Problem Solving & System Design
 2. Solved string manipulation challenges
 
+Day-41 [31/01/2026], Today's work done –
+1. Practiced scenario based questions on IO programming in C# 
+2. Practiced regex related scnario based questions
+
+Day-42 [01/02/2026], Today's work done –
+1. Learned software design principles in C#
+2. Applied SOLID principles in small programs
+3. Practiced clean class design and object-oriented programming techniques
+
+Day-43 [02/02/2026], Today's work done –
+1. Learned SQL queries and database interactions
+2. Practiced creating tables, inserting data, and retrieving data using SELECT statements
+3. Worked on joins, aggregations, and filtering data
+4. 
+Day-44 [03/02/2026], Today's work done –
+1. Practiced scenario-based questions in C#
+2. 
+Day-45 [04/02/2026], Today's work done –
+1. Practiced SQL SELECT statements to retrieve data from tables
+2. Applied WHERE, DISTINCT, ORDER BY, and GROUP BY clauses
+3. Learned aggregate functions like COUNT(), SUM(), AVG(), MAX(), and MIN()
+
+Day-46 [05/02/2026], Today's work done –
+1. Practiced SQL JOIN operations including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN
+2. Worked on combining multiple tables to retrieve related data
+3. Applied aliasing and table relationships in queries
+
+Day-47 [06/02/2026], Today's work done –
+1. Learned SQL subqueries and nested queries
+2. Practiced using subqueries in SELECT, WHERE, and FROM clauses
+3. Implemented queries to filter and aggregate data efficiently
+
+Day-48 [07/02/2026], Today's work done –
+1. Practiced SQL set operations like UNION, INTERSECT, and EXCEPT
+2. Applied combined query results to real-world database scenarios
+3. Learned how to remove duplicate results using UNION DISTINCT
+4. Uploaded SQL set operation exercises on GitHub
+
+Day-49 [08/02/2026], Today's work done –
+1. Practiced SQL INSERT, UPDATE, DELETE statements for data manipulation
+2. Learned constraints enforcement like PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL
+3. Implemented safe update and delete operations with WHERE clauses
+
+Day-50 [09/02/2026], Today's work done –
+1. Practiced SQL functions such as string functions (CONCAT, SUBSTRING, LENGTH), date functions (GETDATE(), DATEADD, DATEDIFF), and numeric functions (ROUND, FLOOR, CEILING)
+2. Applied functions in queries to transform and analyze data
+3. Executed scenario-based queries using multiple functions together
+4. Uploaded SQL function practice scripts on GitHub
