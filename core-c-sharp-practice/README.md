@@ -278,3 +278,44 @@ Day-50 [09/02/2026], Today's work done –
 2. Applied functions in queries to transform and analyze data
 3. Executed scenario-based queries using multiple functions together
 4. Uploaded SQL function practice scripts on GitHub
+
+Day-51 [10/02/2026], Today's work done –
+1. Revised DBMS fundamentals,
+2. Reviewed database architecture, keys, and normalization concepts,
+3. Practiced basic SQL queries for data retrieval and filtering.
+
+Day-52 [11/02/2026], Today's work done –
+1. Continued DBMS revision,
+2. Practiced joins, aggregate functions, and grouping queries,
+3. Solved scenario-based questions to strengthen query writing.
+
+Day-53 [12/02/2026], Today's work done –
+1. Started learning Multithreading in C#,
+2. Understood concept of processes vs threads and need for multithreading,
+3. Learned how to create and start threads with basic examples.
+
+Day-54 [13/02/2026], Today's work done –
+
+Explored thread lifecycle and synchronization basics,
+Studied real-world use cases of multithreading,
+Practiced small programs demonstrating concurrent execution.
+
+Day-55 [16/02/2026], Today's work done –
+1. Started ADO.NET basics,
+2. Understood Connected vs Disconnected architecture,
+3. Learned usage of SqlConnection and SqlCommand.
+
+Day-56 [17/02/2026], Today's work done –
+1. Worked with SqlDataReader and data retrieval flow,
+2. Practiced executing queries from C# applications,
+3. Understood how application communicates with database.
+
+Day-57 [18/02/2026], Today's work done –
+1. Practiced scenario-based examples using ADO.NET,
+2. Implemented database read operations in sample programs,
+3. Strengthened understanding of data access patterns.
+
+Day-58 [19/02/2026], Today's work done –
+1. Revised Multithreading, DBMS, and ADO.NET concepts together,
+2. Focused on integrating concepts conceptually in real-world scenarios,
+3. Practiced problem-solving based on interview-style questions.
