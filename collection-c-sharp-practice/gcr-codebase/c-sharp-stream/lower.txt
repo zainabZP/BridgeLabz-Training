@@ -1,0 +1,3 @@
+this is a normal line
+error occurred while connecting to database
+another normal message

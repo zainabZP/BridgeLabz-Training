@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExceptionHandler/ExceptionHandler.csproj" />
+  <Project Path="ExceptionHandlerMSTests/ExceptionHandlerMSTests.csproj" />
+  <Project Path="ExceptionHandlerNUnitTests/ExceptionHandlerNUnitTests.csproj" />
+</Solution>

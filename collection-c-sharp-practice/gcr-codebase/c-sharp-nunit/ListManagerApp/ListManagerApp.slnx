@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ListManager/ListManager.csproj" />
+  <Project Path="ListManagerMSTests/ListManagerMSTests.csproj" />
+  <Project Path="ListManagerNUnitTests/ListManagerNUnitTests.csproj" />
+</Solution>

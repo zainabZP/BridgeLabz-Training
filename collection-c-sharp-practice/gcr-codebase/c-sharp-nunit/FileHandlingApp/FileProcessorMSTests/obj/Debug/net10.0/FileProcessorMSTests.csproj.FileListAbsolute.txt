@@ -1,0 +1,10 @@
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_FileProcessorMSTests
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_FileProcessorMSTests
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.csproj.AssemblyReference.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.gentestingplatformentrypointinputcache.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.genautoregisteredextensionsinputcache.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.AssemblyInfoInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.AssemblyInfo.cs
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.csproj.CoreCompileInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessorMSTests\obj\Debug\net10.0\FileProcessorMSTests.sourcelink.json

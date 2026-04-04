@@ -1,0 +1,12 @@
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\bin\Debug\net10.0\FileProcessor.deps.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\bin\Debug\net10.0\FileProcessor.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\bin\Debug\net10.0\FileProcessor.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.AssemblyInfoInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.AssemblyInfo.cs
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.csproj.CoreCompileInputs.cache
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.sourcelink.json
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\refint\FileProcessor.dll
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\FileProcessor.pdb
+C:\BridgeLabz-Training\BridgeLabz-Training\collection-c-sharp-practice\gcr-codebase\c-sharp-nunit\FileHandlingApp\FileProcessor\obj\Debug\net10.0\ref\FileProcessor.dll
